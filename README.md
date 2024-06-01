@@ -16,6 +16,8 @@ The game follows the same rules, general graphics, and a similar vocabulary
 
 <img src="https://github.com/tadahiroueta/wordle/blob/main/samples/good-game.gif" alt="good-game" width="248rem" />
 
+> Made entirely programatically
+
 ### Model-View-Controller design
 
 The code is divided among
