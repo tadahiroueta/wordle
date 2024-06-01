@@ -43,6 +43,11 @@ The app includes two views on top of the main game view: the intructions and the
     - Enter ```https://github.com/tadahiroueta/wordle.git```
 
 ## Usage
+
 1. Run the iOS simulator by clicking the ```▶``` button
+
+2. Type your guesses on the text field. There are more instructions by the question button on the top left of the screen.
+
+3. Games will reset a few seconds after being completed.
   
 <img src="https://github.com/tadahiroueta/wordle/blob/main/samples/bad-game.gif" alt="bad-game" width="248rem" />
