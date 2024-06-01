@@ -14,7 +14,7 @@
 ### Faithful to the original [Wordle](https://www.nytimes.com/games/wordle/index.html)
 The game follows the same rules, general graphics, and a similar vocabulary
 
-<img src="https://github.com/tadahiroueta/wordle/blob/main/samples/good-game.gif" alt="good-game" width="33%" />
+<img src="https://github.com/tadahiroueta/wordle/blob/main/samples/good-game.gif" alt="good-game" width="248rem" />
 
 ### Model-View-Controller design
 
@@ -26,12 +26,12 @@ The code is divided among
 ### Dark-Mode setting
 All views have their colour properties updated dynamically to adjust to the setting
 
-<img src="https://github.com/tadahiroueta/wordle/blob/main/samples/dark-mode.gif" alt="dark-mode" width="33%" />
+<img src="https://github.com/tadahiroueta/wordle/blob/main/samples/dark-mode.gif" alt="dark-mode" width="248rem" />
 
 ### Multiple Views
 The app includes two views on top of the main game view: the intructions and the dark-mode settings. These are opened with segues as "pop-ups".
 
-<img src="https://github.com/tadahiroueta/wordle/blob/main/samples/instructions.gif" alt="instructions" width="33%" />
+<img src="https://github.com/tadahiroueta/wordle/blob/main/samples/instructions.gif" alt="instructions" width="248rem" />
 
 ## Installation
 
@@ -45,4 +45,4 @@ The app includes two views on top of the main game view: the intructions and the
 ## Usage
 1. Run the iOS simulator by clicking the ```▶``` button
   
-<img src="https://github.com/tadahiroueta/wordle/blob/main/samples/bad-game.gif" alt="bad-game" width="33%" />
+<img src="https://github.com/tadahiroueta/wordle/blob/main/samples/bad-game.gif" alt="bad-game" width="248rem" />
